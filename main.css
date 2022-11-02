@@ -1,0 +1,57 @@
+body {
+	background:#000;
+	font-family: arial;
+	color: white;
+	outline-color: red;
+}
+
+a {
+	color: white;
+}
+
+header h1 {
+	margin: 0;
+}
+
+p {
+	background: #222;
+	color: green;
+	padding: 8px;
+}
+
+strong {
+	color: white;
+}
+
+.avk {
+	color: royalblue;
+}
+
+.ayut {
+	color: indianred;
+}
+
+.pl1 {
+	background: #444;
+	padding: 2px;
+}
+
+nav ul li {
+	background: #444;
+	display: inline-block;
+	list-style-type: none;
+	margin: 4px;
+	padding:4px;
+	border-radius: 10;
+}
+
+nav ul {
+	background: black;
+	margin:0;
+	padding:0;
+	border-radius: 10;
+}
+
+nav ul li .avk {
+
+}
